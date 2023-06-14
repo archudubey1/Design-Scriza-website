@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+}
+.header {
+   background: black;
+}
+.breadcam {
+    height: 32px;
+    padding: 10px 0;
+    border-bottom: 1px solid #eee;
+    background: #38857A;
+}
+.main img{
+    height: 400px;
+}
+.main h1{
+    text-align: center;
+    margin-top: 167px;
+}
+#payu-text{
+    display: flex;
+    text-align: center;
+  
+}
+.text-block-content{
+  
+   display: block;
+    text-align: justify;
+    margin: 477px;
+    top: 10px;
+    margin-top: 74px;
+  
+   
+}
+.wrapper{
+    margin-top: 30px;
+}
+.wrapper img{
+    width: 131%;
+   margin-top: 30px;
+    margin-left: -134px;
+}
+.image-vedio {
+  
+
+}
+.image-vedio img{
+    border-radius: 20px 0px 0px 20px !important;
+    height: 400px;
+    }
+.section3{
+    /* margin: 477px; */
+    margin-top: -320px;
+    
+}
+section.block h2 {
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 1.5em;
+    margin: 0;
+}
+.last-sec{
+    background: url(contact-bg-2.jpg);
+   /* position: relative; */
+   height: 35%;
+    
+   text-align: center;
+}
+.last-sec h2{
+    
+   
+   
+    color: #38857A;
+}
+
+.steps{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-evenly;
+}
+.step{
+    margin: 10px;
+    height: 160px;
+    width: 300px;
+    background-color: rgb(180, 175, 175);
+}
+.box-title{
+    margin-top: 30px;
+}
+.overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #02a192;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    -webkit-transform: scale(0);
+    -ms-transform: scale(0);
+    transform: scale(0);
+    -webkit-transition: .5s ease;
+    transition: .5s ease;
+  }
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 1024px){}
+.text-content-wrapper {
+    max-width: 1440px;
+}
+@media (min-width: 1024px){}
+.text-content {
+    bottom: 75px;
+    left: 42px;
+}
+@media (min-width: 1024px){}
+.letter-block .keyline-background {
+    top: 0;
+    left: 0;
+    width: 660px;
+    height: 76px;
+    background-position: 0 0;
+}

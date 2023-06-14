@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.card{
+   
+    height: 80vh !important;
+    width: 70vw !important;
+}
+.card-main{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 5%;
+    border-radius: 12px;
+    flex-direction: column;
+    
+
+
+}
+.card-one{
+    display: flex;
+    justify-content: space-evenly;
+    height: 50%;
+    width: 100%;
+    border-radius: 12px;
+    background-color: gainsboro;
+
+}
+.box{
+    margin-top: 200px;
+    
+    border-radius: 12px;
+    background-color: white;
+    height: 149px;
+    width: 344px;
+
+}
+.card-two{
+   
+        height: 50%;
+        width: 100%;
+        border-radius: 12px;
+        background-color: white;
+    
+
+}
+.card-two button{
+
+   border-radius: 5px;
+    height: 32px;
+    width: 65px;
+    border: none;
+}
